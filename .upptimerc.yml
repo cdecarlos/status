@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Test Broken Site2
+    url: https://thissitedoesnotexist.koj.co2
 
 assignees: # Users to assign downtime issues (optional)
   - cdecarlos
