@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -34,5 +34,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Broken Site2",
+    "url": "https://thissitedoesnotexist.koj.co2",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co2",
+    "slug": "test-broken-site2",
+    "status": "down",
+    "uptime": "21.34%",
+    "uptimeDay": "21.34%",
+    "uptimeWeek": "21.34%",
+    "uptimeMonth": "21.34%",
+    "uptimeYear": "21.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   }
 ]
