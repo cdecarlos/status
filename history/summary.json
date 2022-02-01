@@ -1,6 +1,6 @@
 [
   {
-    "name": "Webdesarrolla.com",
+    "name": "webdesarrolla.com",
     "url": "https://webdesarrolla.com",
     "icon": "https://favicons.githubusercontent.com/webdesarrolla.com",
     "slug": "webdesarrolla-com",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   }
 ]
