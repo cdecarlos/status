@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 203,
-    "timeWeek": 203,
-    "timeMonth": 238,
+    "timeDay": 211,
+    "timeWeek": 199,
+    "timeMonth": 237,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/pherroes.com",
     "slug": "pherroes-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1887,
-    "timeDay": 1999,
-    "timeWeek": 2067,
-    "timeMonth": 2024,
-    "timeYear": 1887,
-    "dailyMinutesDown": {
-      "2022-03-20": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1900,
+    "timeDay": 1981,
+    "timeWeek": 2173,
+    "timeMonth": 2034,
+    "timeYear": 1900,
+    "dailyMinutesDown": {}
   }
 ]
