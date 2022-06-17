@@ -6,9 +6,9 @@
     "slug": "webdesarrolla-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
     "time": 225,
     "timeDay": 173,
@@ -16,7 +16,6 @@
     "timeMonth": 228,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-06-16": 13,
       "2022-06-14": 111,
       "2022-06-13": 17
     }
@@ -28,9 +27,9 @@
     "slug": "pherroes-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.93%",
     "time": 1892,
     "timeDay": 1301,
@@ -38,7 +37,6 @@
     "timeMonth": 1714,
     "timeYear": 1892,
     "dailyMinutesDown": {
-      "2022-06-16": 13,
       "2022-06-14": 109,
       "2022-06-13": 16
     }
