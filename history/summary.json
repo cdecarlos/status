@@ -24,19 +24,19 @@
     "url": "https://pherroes.com",
     "icon": "https://icons.duckduckgo.com/ip3/pherroes.com.ico",
     "slug": "pherroes-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1819,
-    "timeDay": 1688,
-    "timeWeek": 2269,
-    "timeMonth": 2115,
-    "timeYear": 1673,
+    "time": 1820,
+    "timeDay": 1714,
+    "timeWeek": 2210,
+    "timeMonth": 2104,
+    "timeYear": 1674,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2023-12-31": 6
     }
   }
 ]
