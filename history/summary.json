@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 247,
-    "timeDay": 200,
-    "timeWeek": 226,
-    "timeMonth": 225,
+    "time": 246,
+    "timeDay": 217,
+    "timeWeek": 231,
+    "timeMonth": 224,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2023-09-01": 107
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pherroes.com.ico",
     "slug": "pherroes-com",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 3712,
-    "timeWeek": 2692,
-    "timeMonth": 2301,
-    "timeYear": 1741,
+    "time": 1838,
+    "timeDay": 1600,
+    "timeWeek": 2622,
+    "timeMonth": 2296,
+    "timeYear": 1737,
     "dailyMinutesDown": {}
   }
 ]
