@@ -4,10 +4,10 @@
     "url": "https://webdesarrolla.com",
     "icon": "https://icons.duckduckgo.com/ip3/webdesarrolla.com.ico",
     "slug": "webdesarrolla-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 242,
@@ -16,6 +16,7 @@
     "timeMonth": 251,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2024-06-21": 2,
       "2023-09-01": 107
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://pherroes.com",
     "icon": "https://icons.duckduckgo.com/ip3/pherroes.com.ico",
     "slug": "pherroes-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1766,
+    "time": 1767,
     "timeDay": 1302,
     "timeWeek": 1375,
     "timeMonth": 1542,
     "timeYear": 1845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   }
 ]
