@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/webdesarrolla.com.ico",
     "slug": "webdesarrolla-com",
     "status": "up",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.06%",
     "time": 265,
-    "timeDay": 287,
+    "timeDay": 209,
     "timeWeek": 265,
-    "timeMonth": 277,
+    "timeMonth": 276,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2024-09-05": 1104,
@@ -63,8 +63,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 812,
-      "2024-06-22": 472,
-      "2024-06-21": 816
+      "2024-06-22": 472
     }
   },
   {
@@ -78,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.06%",
-    "time": 4423,
-    "timeDay": 6965,
-    "timeWeek": 8551,
+    "time": 4435,
+    "timeDay": 6688,
+    "timeWeek": 8558,
     "timeMonth": 5797,
-    "timeYear": 5214,
+    "timeYear": 5230,
     "dailyMinutesDown": {
       "2024-09-05": 1104,
       "2024-09-04": 1440,
@@ -131,8 +130,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 811,
-      "2024-06-22": 472,
-      "2024-06-21": 815
+      "2024-06-22": 472
     }
   }
 ]
