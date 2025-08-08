@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "92.12%",
     "time": 269,
-    "timeDay": 204,
-    "timeWeek": 262,
-    "timeMonth": 263,
+    "timeDay": 249,
+    "timeWeek": 246,
+    "timeMonth": 261,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2024-09-05": 1104,
@@ -43,8 +43,7 @@
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
-      "2024-08-09": 1440,
-      "2024-08-08": 1440
+      "2024-08-09": 1440
     }
   },
   {
@@ -53,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pherroes.com.ico",
     "slug": "pherroes-com",
     "status": "up",
-    "uptime": "96.13%",
+    "uptime": "96.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.14%",
+    "uptimeWeek": "89.56%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "91.63%",
-    "time": 6177,
-    "timeDay": 19246,
-    "timeWeek": 25964,
-    "timeMonth": 19036,
-    "timeYear": 7636,
+    "uptimeYear": "91.91%",
+    "time": 6224,
+    "timeDay": 25378,
+    "timeWeek": 25981,
+    "timeMonth": 19277,
+    "timeYear": 7683,
     "dailyMinutesDown": {
       "2025-08-04": 626,
       "2025-08-03": 86,
@@ -97,8 +96,7 @@
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
-      "2024-08-09": 1440,
-      "2024-08-08": 1440
+      "2024-08-09": 1440
     }
   }
 ]
